@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WheelPicker">
+        <attr name="smallTextColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="bigTextColor" format="color"/>
+        <attr name="textScale" format="float"/>
+        <attr name="verticalSpacing" format="color"/>
+    </declare-styleable>
+</resources>
