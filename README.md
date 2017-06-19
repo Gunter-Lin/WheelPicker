@@ -1,2 +1,2 @@
-# PickerView
-附带立体感的PickerView
+# WheelPicker
+纯文本的WheelPicker
